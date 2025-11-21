@@ -1,5 +1,5 @@
 # Little Lemon Restaurant – Static Webpage  
-[Live Demo](https://naveenx03.github.io/Little-Lemon-Webpage/)
+[Live Demo](https://naveenx03.github.io/little-lemon-webpage/)
 
 ---
 
